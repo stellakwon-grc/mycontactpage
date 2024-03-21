@@ -72,7 +72,7 @@ html, body {
 	min-width: 300px; /*-----this is for responsiveness-----*/
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(236, 247, 252, 0.527); /*this uses opacity of % for the background color*/
+ 	background: rgba(236, 247, 252, 0.63); /*this uses opacity of % for the background color*/
 	text-align: center;
 }
 
